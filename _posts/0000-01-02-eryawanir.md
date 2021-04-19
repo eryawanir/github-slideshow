@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Jangan nakal yaaa! dosa lhoo" - Muhammad Eryawan Irianto
 Use the left arrow to go back!
